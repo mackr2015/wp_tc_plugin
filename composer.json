@@ -1,0 +1,17 @@
+{
+    "name": "mackraicevic/tc-posts",
+    "description": "Simple API WP plugin to retrieve API data of Tech Crunch posts",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Mack Raicevic",
+            "email": "mackraicevic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}

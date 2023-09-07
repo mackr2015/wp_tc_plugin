@@ -21,6 +21,10 @@ function disable_gutenberg_for_post_type($use_block_editor, $post_type) {
 add_filter('use_block_editor_for_post_type', 'disable_gutenberg_for_post_type', 10, 2);
 ```
 
+### Install
+- use zip directory and add it as a plugin upload
+- or clone this repo and manually add to your wp-content/plugins directory
+
 ### Contact dev support
 
 - [Mack Raicevic](https://mackraicevic.com)
