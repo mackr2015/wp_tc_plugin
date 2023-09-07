@@ -23,4 +23,4 @@ add_filter('use_block_editor_for_post_type', 'disable_gutenberg_for_post_type', 
 
 ### Contact dev support
 
-- (Mack Raicevic)[https://mackraicevic.com]
+- [Mack Raicevic](https://mackraicevic.com)
